@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Pamietnik</string>
+    <string name="add_entry">Dodaj wpis</string>
+    <string name="content">Tresc: </string>
+    <string name="loc">Lokalizacja: </string>
+    <string name="audio">Nagranie audio: </string>
+    <string name="back">Powrot</string>
+    <string name="edit">Edytuj</string>
+    <string name="goback">Powrót</string>
+    <string name="save">Zapisz</string>
+    <string name="title">Tytul:</string>
+    <string name="titleError">Tytul nie moze byc pusty</string>
+    <string name="record_audio">Nagraj audio</string>
+    <string name="no_audio_recorded">Brak nagrania</string>
+    <string name="play_audio">Odtwórz nagranie</string>
+    <string name="audio_recorded">Nagranie dostępne</string>
+    <string name="descriptionError">Tresc nie moze byc pusta</string>
+    <string name="unknown_location">Nieznana lokalizacja</string>
+    <string name="locationNotAvailable">Lokalizacja niedostepna</string>
+    <string name="locationError">Blad pobierania lokalizacji</string>
+    <string name="savingLocation">Wczytywanie lokalizacji...</string>
+    <string name="location">Lokalizacja: </string>
+    <string name="stop_record">Przestan nagrywac</string>
+    <string name="recording">Nagrywanie</string>
+    <string name="stop_audio">Zatrzymaj nagranie</string>
+    <string name="setNewPin">Ustaw nowy PIN</string>
+    <string name="writePIN">Wpisz PIN</string>
+    <string name="pin">PIN</string>
+    <string name="pinError">Nieprawidłowy PIN</string>"
+    <string name="pinSave">Zapisz PIN</string>
+    <string name="logIn">Zaloguj</string>
+    <string name="exit">Anuluj</string>
+    <string name="drawOnImage">Rysuj po zdjeciu</string>
+</resources>
