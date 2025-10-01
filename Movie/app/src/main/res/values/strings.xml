@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Filmoteka</string>
+    <string name="premiere">Premiera: </string>
+    <string name="category">Kategoria: </string>
+    <string name="status">Status: </string>
+    <string name="comment">Komentarz: </string>
+    <string name="rating">Ocena: </string>
+    <string name="ratingScale">/10</string>
+    <string name="title">Tytuł: </string>
+    <string name="all">Wszystkie</string>
+    <string name="selectCategory">Wybierz kategorie</string>"
+    <string name="selectStatus">Wybierz status</string>
+    <string name="filmsCount">Liczba filmów: </string>"
+    <string name="titleError">Tytuł nie może być pusty</string>"
+    <string name="categoryError">Kategoria musi zostac wybrana</string>"
+
+</resources>
